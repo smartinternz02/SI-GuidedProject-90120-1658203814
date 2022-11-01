@@ -1,0 +1,10 @@
+python packages
+
+-- numpy
+-- pandas
+-- scikit-learn
+-- matplotlib
+-- scipy
+-- pickle
+-- seaborn
+-- Flask
